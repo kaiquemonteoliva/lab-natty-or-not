@@ -4,7 +4,7 @@
 Este e-book de 10 páginas explora o impacto e como a IA pode ajudar na criação de musicas e como nós podemos usar essa ferramenta como parte da criatividade.
 
 🤖 Tecnologias Utilizadas
-IA Generativa ChatGPT para roteirização e ideias de temas;
+IA Generativa GEMINI para roteirização e ideias de temas;
 IA Generativa Leonardo AI para criar a arte visual do e-book;
 Canvas para consolidar o material;
 
