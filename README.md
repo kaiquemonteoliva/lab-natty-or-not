@@ -36,9 +36,9 @@ A criação deste e-book foi, em si, um experimento de colaboração entre a cri
 
 Você pode ler e baixar a versão final do e-book gratuitamente.
 
-**➡️ [Link para baixar o E-book ([Insira seu link do Google Drive, Canva, Gumroad, etc. aqui](https://drive.google.com/file/d/1zsLS7vqzAeTI4BZt-9ZZgj3a4sI20UxR/view?usp=drive_link))]**
+**➡️ [Link para baixar o E-book ([E-BOOK A Nova Harmonia](https://drive.google.com/file/d/1zsLS7vqzAeTI4BZt-9ZZgj3a4sI20UxR/view?usp=drive_link))]**
 
-**➡️ [Link para baixar a Musica ([Insira seu link do Google Drive, Canva, Gumroad, etc. aqui](https://suno.com/s/1Jv5iYIxQ3Jve6Wq))]**
+**➡️ [Link para baixar a Musica ([Musica Era Eu](https://suno.com/s/1Jv5iYIxQ3Jve6Wq))]**
 
 ## 📄 Licença
 Este trabalho é distribuído gratuitamente. Sinta-se à vontade para compartilhar este material, ajudando a espalhar uma visão positiva e colaborativa sobre o futuro da IA na arte.
